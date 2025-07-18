@@ -1,0 +1,82 @@
+[
+  {
+    "branch": "NVIDIA",
+    "cardName": "Nvidia GeForce RTX 5090",
+    "cardImage": "https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/graphic-cards/50-series/rtx-5090/geforce-rtx-5090-learn-more-og-1200x630.jpg",
+    "price": 1999,
+    "available": true,
+    "id": "1"
+  },
+  {
+    "branch": "NVIDIA",
+    "cardName": "Nvidia GeForce RTX 5080",
+    "cardImage": "https://www.zotac.com/download/files/styles/org/public/product_main_image/graphics_cards/zt-b50800d-10p-image01.jpg?itok=86BJCsyY",
+    "price": 1499,
+    "available": true,
+    "id": "2"
+  },
+  {
+    "branch": "NVIDIA",
+    "cardName": "Nvidia GeForce RTX 5070 Ti",
+    "cardImage": "https://bizweb.dktcdn.net/100/329/122/files/trai-nghiem-do-hoa-dot-pha-voi-nhung-cai-tien-vuot-troi-tren-rtx-5070-ti.webp?v=1739776830309",
+    "price": 1200,
+    "available": true,
+    "id": "3"
+  },
+  {
+    "branch": "AMD",
+    "cardName": "AMD Radeon RX 7900 GRE",
+    "cardImage": "https://www.phucanh.vn/media/news/2907_tin-tuc-amd-radeon-rx-7900-gre-chinh-thuc-ra-mat-1.jpg",
+    "price": 1199,
+    "available": true,
+    "id": "4"
+  },
+  {
+    "branch": "NVIDIA",
+    "cardName": "Nvidia GeForce RTX 4090",
+    "cardImage": "https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/ada/rtx-4090/geforce-ada-4090-web-og-1200x630.jpg",
+    "price": 1599,
+    "available": true,
+    "id": "5"
+  },
+  {
+    "branch": "NVIDIA",
+    "cardName": "Nvidia GeForce RTX 4070 Super",
+    "cardImage": "https://m.media-amazon.com/images/I/512T3hTT5ZL.jpg",
+    "price": 899,
+    "available": true,
+    "id": "6"
+  },
+  {
+    "branch": "AMD",
+    "cardName": "AMD Radeon RX 7800 XT",
+    "cardImage": "https://vinatechnhatrang.com/FileStorage/Article/Image/960x0.jpg",
+    "price": 699,
+    "available": false,
+    "id": "7"
+  },
+  {
+    "branch": "NVIDIA",
+    "cardName": "Nvidia GeForce RTX 4060",
+    "cardImage": "https://images-na.ssl-images-amazon.com/images/I/511kxBmqisL.jpg",
+    "price": 450,
+    "available": false,
+    "id": "8"
+  },
+  {
+    "branch": "AMD",
+    "cardName": "AMD Radeon RX 7600",
+    "cardImage": "https://nguyencongpc.vn/media/news/2605_RX7600-5.jpg",
+    "price": 399,
+    "available": false,
+    "id": "9"
+  },
+  {
+    "branch": "INTEL",
+    "cardName": "Intel Arc A750",
+    "cardImage": "https://m.media-amazon.com/images/I/71sO2CZL1UL._AC_SL1500_.jpg",
+    "price": 399,
+    "available": true,
+    "id": "10"
+  }
+]
